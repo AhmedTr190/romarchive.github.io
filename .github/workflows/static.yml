@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sade Text</title>
+    <style>
+        /* Sayfa ayarları */
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center; /* Yatayda ortalar */
+            align-items: center;     /* Dikeyde ortalar */
+            background-color: #121212; /* Koyu arka plan (Dark Mode) */
+            color: #ffffff;           /* Beyaz yazı rengi */
+            font-family: sans-serif;  /* Modern yazı tipi */
+        }
+
+        h1 {
+            font-size: 3rem; /* Yazı boyutu */
+            font-weight: 300; /* Yazı inceliği */
+            letter-spacing: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>text</h1>
+
+</body>
+</html>
